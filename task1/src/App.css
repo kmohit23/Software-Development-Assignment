@@ -1,0 +1,23 @@
+body{
+  background-color:#1B2430 ;
+  color: aliceblue;
+}
+h1{
+  text-align: center;
+}
+.taskList{
+  background-color: #7F8487;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  font-size: large;
+  font-weight: bolder;
+  color: black;
+}
+i{
+  cursor: pointer;
+}
+i:hover{
+  color:#eaf3ff;
+}
